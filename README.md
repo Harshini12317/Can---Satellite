@@ -21,10 +21,10 @@ Data logging for post-flight analysis.
 Autonomous payload operations.
 Safe recovery after landing.
 
-# 🛠 Hardware Components
-Microcontroller
-Arduino Nano / Arduino Uno / ESP32 (update with your board)
-Sensors
+## 🛠 Hardware Components
+# Microcontroller
+ESP32 (update with your board)
+# Sensors
 BMP280/BME280 – Pressure, Temperature, Altitude
 DHT11/DHT22 – Temperature & Humidity
 MPU6050 – Accelerometer & Gyroscope
