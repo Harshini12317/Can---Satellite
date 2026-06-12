@@ -23,7 +23,7 @@ Safe recovery after landing.
 
 ## 🛠 Hardware Components
 # Microcontroller
-ESP32 (update with your board)
+ESP32 
 # Sensors
 BMP280/BME280 – Pressure, Temperature, Altitude
 DHT11/DHT22 – Temperature & Humidity
